@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on working on reaching new challenges.
+- 🔭 I’m currently working on reaching new challenges.
 - 🌱 I’m currently learning more about JavaScript, React, Express, NodeJs.
 
 <h3> 🤝🏻 Connect with Me </h3>
