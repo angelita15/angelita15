@@ -10,7 +10,8 @@
 
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS  | MongoDB  | Express.js | Node.js| Git 
+
 
 <!--
 
