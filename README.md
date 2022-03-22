@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on reaching new challenges.
+- 🔭 I’m currently working on reaching new challenges and exploring new technologies
 - 🌱 I’m currently learning more about JavaScript, React, Express, NodeJs.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
 
 <h3>🛠 Tech Stack</h3>
 
