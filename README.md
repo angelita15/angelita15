@@ -1,9 +1,25 @@
-### Hi there � I'm Ángela !!
+### Hi there 👋 I'm Ángela !!
 
 
 
 - 🔭 I’m currently working on reaching new challenges.
 - 🌱 I’m currently learning more about JavaScript, React, Express, NodeJs.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+<!--
+
+- 🛢 &nbsp; | MongoDB
+
+- 🔧 &nbsp; Git |
+
+
+-->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
