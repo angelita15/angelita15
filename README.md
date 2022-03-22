@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**angelita15/angelita15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ángela-ruedaa-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+
+<a href="mailto:angela.rueda15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-angela.rueda15@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐️ From [@angelita15](https://github.com/angelita15)
